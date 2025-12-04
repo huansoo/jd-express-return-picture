@@ -1,15 +1,19 @@
-# 📦 顺丰电商退货地址截图模拟-
+## 📦 顺丰京东电商退货地址截图模拟-退货截图管家
 - 简介  
 通过退货渠道享受寄件优惠价，1KG内优惠力度大，且可叠加优惠券(PS:比学生渠道还低)
-纯HTML已失效，该版本依赖JS，并增加了一些功能  
-一个模版，多平台通杀：JD/STO/ZTO
+纯HTML已失效。请使用小程序进行生成
+- 操作步骤
+    *   1、打开小程序 “截图管家”，在首页地址框里填写收件地址。收货方就写谁的名字；电话也填对
+    *   2、填写完成后，点页面上的 “一键生成” 按钮，页面会跳转到 退款退货详情页 并显示已生成的退货信息。
+    *   3、用手机自带的截图功能把生成的退货详情页截屏并 保存到相册（确保截图完整、清晰，包含地址和电话）
+    *   4、打开 快递APP或小程序（京东快递、顺丰速运等） → 寄快递 → 网购退货页面，上传第 3 步保存的退货截图。
+    *   5、快递APP或快递小程序会自动识别截图里的地址与电话，上传后务必逐项核对识别结果，若识别错误可手动修改或补充后缀再试
+    *   6、等快递员上门取件时，让快递员推送账单到微信小程序（或在小程序里生成账单），在小程序内完成线上付款。
+    *   7、系统会自动使用赠送的“电商退货优惠券”。注意：必须在小程序内付款才能自动优惠，切勿线下（现金/POS）直接付给快递员
+一个模版，多平台通杀：SF/JD/STO/ZTO
 - 使用方式  
-**微信搜索小程序【截图管家】**
-**微信扫码小程序**
-
+  * 微信搜索小程序【截图管家】
+  * 微信扫码小程序
+<img width="300" height="650" alt="小程序二维码" src="https://github.com/huansoo/jd-express-return-picture/blob/main/assets/jtgj-code.jpg" />
 **如果有用，给个⭐Star吧！**  
-  
-
-<img width="300" height="650" alt="IMG_3288" src="https://github.com/user-attachments/assets/d7a1caee-9249-4ce9-8a7d-be57ec651fc9" />
-<img width="300" height="650" alt="IMG_2930" src="https://github.com/user-attachments/assets/d77737b4-e898-4d4e-9020-e31e7f7ba937" />
-
+<img width="200" height="650" alt="地址生成页面" src="https://github.com/huansoo/jd-express-return-picture/blob/main/assets/preview.jpg" />
